@@ -1,7 +1,7 @@
 # Code 201 Reading Notes
 
 **In this page we will discuse HTML and  JAVA SCRIPT**
-*From the Duckett HTML book:*
+*From the Duckett (HTML and JS) book:*
 
  topic | link  |
 | ------------- | ------------- |
