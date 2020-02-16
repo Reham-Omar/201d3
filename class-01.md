@@ -46,7 +46,7 @@ The <meta> element lives inside the <head> element and contains information abou
 
  HTML5 is introducing a new set of elements that help define the structure of a page.
  The names of these elements indicate the kind of content you will find in them like :
- * <div> 
+ * div 
  * <header>
  * <nav>
  * <article>
