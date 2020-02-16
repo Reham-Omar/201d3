@@ -51,12 +51,6 @@ The <meta> element lives inside the <head> element and contains information abou
  * header
  * nav
  * article
-=======
- * < div > 
- * header 
- * <nav>
- * <article>
->>>>>>> 09e39c54e8d498c295cb963971130b752cec9e68
 
 to make html element work on the internet explorer 8 , you need to add extra javaScript 
 
