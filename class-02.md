@@ -48,7 +48,7 @@ A script is a series of instructions that a computer can follow one-by-one.
  - expressions evaluate into asingle value 
  - expression relay on operator to calculate a value 
 
- # Chapter 4: “Decisions and Loops”
+ #  Chapter 4: “Decisions and Loops”
 
  - A switch statement starts with a variable called the switch value. 
    * You have a default option that is run if none of the cases match.
