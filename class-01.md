@@ -31,14 +31,14 @@ for ex : if you want to include a copyright symbol on a web page you can use eit
 2-  id attributes , the id attribute is known as a global attribute because it can be used on any element.
 
 * Elements that are used to group together parts of the page where no other element is suitable
-1- <div>
-The <div> element allows you to group a set of elements together in one block-level box.
+1- < div >
+The < div  > element allows you to group a set of elements together in one block-level box.
 
-2- <span>
-The <span> element acts like an inline equivalent of the <div> element.
+2- < span  >
+The < span > element acts like an inline equivalent of the < div > element.
 
-3- <meta>
-The <meta> element lives inside the <head> element and contains information about that web page.
+3- < meta >
+The < meta > element lives inside the < head > element and contains information about that web page.
 
 
 
@@ -46,7 +46,6 @@ The <meta> element lives inside the <head> element and contains information abou
 
  HTML5 is introducing a new set of elements that help define the structure of a page.
  The names of these elements indicate the kind of content you will find in them like :
-<<<<<<< HEAD
  * div 
  * header
  * nav
