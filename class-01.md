@@ -47,9 +47,9 @@ The <meta> element lives inside the <head> element and contains information abou
  HTML5 is introducing a new set of elements that help define the structure of a page.
  The names of these elements indicate the kind of content you will find in them like :
  * div 
- * <header>
- * <nav>
- * <article>
+ * header
+ * nav
+ * article
 
 to make html element work on the internet explorer 8 , you need to add extra javaScript 
 
