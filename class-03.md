@@ -2,13 +2,13 @@
 *this is my summary :*
 there aree three different types of list  :
 
-**Ordered lists** 
+**Ordered lists:** 
  lists where each item in the list is numbered , it is created with the < ol> element , each item in the list is placed between an < li >< /li> tag
  
- **Unordered lists** 
+ **Unordered lists:** 
  lists that begin with a bullet point ,it is created with the < ul> element
 
-**Definition lists** 
+**Definition lists:** 
 * made up of a set of terms along with the definitions for each of those terms, 
 * it is created with the < dl> element  
 * < dt> used to contain the term being defined 
