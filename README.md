@@ -6,8 +6,8 @@
  topic | link  |
 | ------------- | ------------- |
 | READ 1 |  [Class-01](https://reham-omar.github.io/reading-notes/class-01)  |
-| READ 2: | [LINK](https://reham-omar.github.io/reading-notes/class-02)  |
-| READ 3: | [LINK](https://reham-omar.github.io/reading-notes/class-03)  |
+| READ 2: | [class-02](https://reham-omar.github.io/reading-notes/class-02)  |
+| READ 3: | [class-03](https://reham-omar.github.io/reading-notes/class-03)  |
 | READ 4: | [LINK]()  |
 | READ 5: |[ LINK]() |
 | READ 6: |[LINK ]()  |

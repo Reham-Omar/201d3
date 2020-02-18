@@ -3,7 +3,7 @@
 * I read how to make link using the < a> element which has an attribute called href
 *  Relative URLs can be used when linking to pages within your own website
 * to create a link that starts up the user's email program and addresses an email to a specified email address, you use the < a> element.
-*  to open in a new window, you can use the target attribute on the opening < a> tag see this ex : *((< a href="http://www.imdb.com" target="_blank"> ))*
+*  to open in a new window, you can use the target attribute on the opening < a> tag see this ex : *< a href="http ......" target="_blank">*
 *  I read also about Linking to A sPeciFic Part oF the sAme Page 
 * Block-level elements start on a new line Examples include: < h1> < p> < ul>     < li>
 * inline elements flow in Between surrounding text Examples include: < img> < b> < i>
