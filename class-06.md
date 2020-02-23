@@ -21,7 +21,16 @@
 * *The Document Object Model* : specifies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window
 **but** *The DOM is neither part of HTML, nor part of JavaScript*.
 
-* It covers two primary areas: 
+* It covers two primary areas:
+ 1-MAKING A MODEL OF THE HTML PAGE | 2-ACCESS AND CHANGING THE HTML PAGE  |
+| ------------- | ------------- |
+| READ 1 |  [Class-01](https://reham-omar.github.io/reading-notes/class-01)  |
+| READ 2: | [class-02](https://reham-omar.github.io/reading-notes/class-02)  |
+| READ 3: | [class-03](https://reham-omar.github.io/reading-notes/class-03)  |
+| READ 4: | [class-04](https://reham-omar.github.io/reading-notes/class-04)  |
+| READ 5: |[ classs-05](https://reham-omar.github.io/reading-notes/class-05) |
+| READ 6: |[LINK ]()  |
+| READ 7: | [LINK]()  |
 1-MAKING A MODEL OF THE HTML PAGE|2-ACCESS AND CHANGING THE HTML PAGE|
 | ------------- | ------------- |
 |We use DOM tree to specify browser structure  | It called Application Programming Interface (API)|
