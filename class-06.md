@@ -40,7 +40,7 @@
 | ------------- | ------------- |
 | getElementByld('id) |  getElementsByClassName('class')|
 | querySelector('css selector') | getElementsByTagName('tagName')  |
-|  | querySelectorAll ('css selector')|
+| ------ | querySelectorAll ('css selector')|
 
 *  node Value property : retrieve or amend the content of text node .
 * The textContent  : allows you to collect or update just the text that is in the containing element (and its children).
