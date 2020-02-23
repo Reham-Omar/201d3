@@ -10,7 +10,7 @@
 | READ 3: | [class-03](https://reham-omar.github.io/reading-notes/class-03)  |
 | READ 4: | [class-04](https://reham-omar.github.io/reading-notes/class-04)  |
 | READ 5: |[ classs-05](https://reham-omar.github.io/reading-notes/class-05) |
-| READ 6: |[LINK ]()  |
+| READ 6: |[class-06 ](https://reham-omar.github.io/reading-notes/class-06)  |
 | READ 7: | [LINK]()  |
 | READ 8 |  [LINK]()  |
 | READ 9: | [LINK]()  |
