@@ -36,6 +36,7 @@
 2- TEXT NODES
 
 * DOM queries may return :
+
   one element| Nodelist|
 | ------------- | ------------- |
 | getElementByld('id) | getElementsByClassName('class')|
