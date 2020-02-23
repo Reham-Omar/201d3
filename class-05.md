@@ -1,4 +1,6 @@
 # html
+
+## chapter 5 :
  
 * i learn how to add img then add height and width *for ex: < img src=" images/quokka.jpg" alt="A family of   quokka" width="600" height="450" /> 
 
@@ -16,6 +18,8 @@
 3. top : This aligns the first line of the surrounding text with the top of the image.
 4. middle : This aligns the first line of the surrounding text with the middle of the image.
 5. bottom : This aligns the first line of the surrounding text with the bottom of the image.
+
+## 
  
  *  we Use GIF or PNG format when saving images with few colors or large areas of the same color
  * Images created for the web should be saved at a resolution of 72 ppi. The higher the resolution of the image, the larger the size of the file.
