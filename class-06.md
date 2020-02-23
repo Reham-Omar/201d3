@@ -22,12 +22,12 @@
 **but** *The DOM is neither part of HTML, nor part of JavaScript*.
 
 * It covers two primary areas: 
-1-MAKING A MODEL OF THE HTML PAGE | 2-ACCESS AND CHANGING THE HTML PAGE   |
+1-MAKING A MODEL OF THE HTML PAGE|2-ACCESS AND CHANGING THE HTML PAGE|
 | ------------- | ------------- |
 |We use DOM tree to specify browser structure  | It called Application Programming Interface (API)|
-| Accessing and updating the DOM tree involves two steps:| |
-| 1: Locate the node that represents the element you want to work with. |  |
-| 2: Use its text content, child elements, and attributes. |  |
+| Accessing and updating the DOM tree involves two steps:|------ |
+| 1: Locate the node that represents the element you want to work with. |------|
+| 2: Use its text content, child elements, and attributes. |----- |
 
 
 * Each node is an object with methods and properties and we have 2 nodes :
