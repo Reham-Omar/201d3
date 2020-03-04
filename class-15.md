@@ -21,6 +21,8 @@
 *So  tend to innovate faster, see mistakes more quickly and find better solutions*
 
 
+![image](img/teamwork-and-team-building-image-with-people-and-gears.jpg)
+
 *  **‘‘Good’’ teams from the dysfunctional groups was how teammates treated one another**
 
 * **Good teams all had high ‘‘average social sensitivity’’**
