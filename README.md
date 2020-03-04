@@ -18,8 +18,8 @@
 | READ 11: | [class-11](https://reham-omar.github.io/reading-notes/class-11)  |
 | READ 12: |[ class-12](https://reham-omar.github.io/reading-notes/class-12) |
 | READ 13: |[ class-13 ](https://reham-omar.github.io/reading-notes/class-13)  |
-| READ 14: |  [LINK]()  |
-| READ 15: | [LINK]()  |
+| READ 14: |  [class-14](https://reham-omar.github.io/reading-notes/class-14)  |
+| READ 15: | [class-15]((https://reham-omar.github.io/reading-notes/class-15)  |
 
 
 
